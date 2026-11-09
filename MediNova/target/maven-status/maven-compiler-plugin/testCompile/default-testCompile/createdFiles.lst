@@ -1,0 +1,5 @@
+mx/medinova/domain/PatientAndDoctorTest.class
+mx/medinova/domain/AppointmentTest.class
+mx/medinova/domain/OperacionTest.class
+mx/medinova/OperacionesApiIntegrationTest.class
+mx/medinova/AppointmentApiIntegrationTest.class

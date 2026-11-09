@@ -1,0 +1,5 @@
+/workspace/src/test/java/mx/medinova/AppointmentApiIntegrationTest.java
+/workspace/src/test/java/mx/medinova/OperacionesApiIntegrationTest.java
+/workspace/src/test/java/mx/medinova/domain/AppointmentTest.java
+/workspace/src/test/java/mx/medinova/domain/OperacionTest.java
+/workspace/src/test/java/mx/medinova/domain/PatientAndDoctorTest.java
